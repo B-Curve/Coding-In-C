@@ -1,0 +1,3 @@
+/Users/brandonkervin/Documents/Projects/Coding-In-C/CMakeFiles/rebuild_cache.dir
+/Users/brandonkervin/Documents/Projects/Coding-In-C/CMakeFiles/edit_cache.dir
+/Users/brandonkervin/Documents/Projects/Coding-In-C/CMakeFiles/hello.dir

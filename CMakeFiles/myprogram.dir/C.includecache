@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandonkervin/Documents/Projects/Coding-In-C/main.c
+stdio.h
+-
+string.h
+-
+gtk/gtk.h
+-
+
